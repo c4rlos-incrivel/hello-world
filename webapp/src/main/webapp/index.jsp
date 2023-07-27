@@ -31,7 +31,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Thankyou, Happy Learning </h1>
+   <h1> Thankyou, Happy Learning - Ngoca</h1>
    <small>by incrivel at cm33projectos.com on ec2 amazon CI/CD</small>
 
   
